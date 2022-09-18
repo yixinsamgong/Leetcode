@@ -5,24 +5,24 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<pre><strong>Input:</strong> n = 27
+<pre style="position: relative;"><strong>Input:</strong> n = 27
 <strong>Output:</strong> true
 <strong>Explanation:</strong> 27 = 3<sup>3</sup>
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong>Example 2:</strong></p>
 
-<pre><strong>Input:</strong> n = 0
+<pre style="position: relative;"><strong>Input:</strong> n = 0
 <strong>Output:</strong> false
 <strong>Explanation:</strong> There is no x where 3<sup>x</sup> = 0.
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong>Example 3:</strong></p>
 
-<pre><strong>Input:</strong> n = -1
+<pre style="position: relative;"><strong>Input:</strong> n = -1
 <strong>Output:</strong> false
 <strong>Explanation:</strong> There is no x where 3<sup>x</sup> = (-1).
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
